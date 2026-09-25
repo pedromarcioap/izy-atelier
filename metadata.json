@@ -1,0 +1,6 @@
+{
+  "name": "Atelier - Strava para Artistas & AI Vision Studio",
+  "description": "Plataforma de aprendizado de desenho e pintura com análise multimodal por IA, acompanhamento de evolução técnica e comunidade de peer-review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
